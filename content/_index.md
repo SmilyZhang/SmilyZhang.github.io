@@ -72,7 +72,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Cooming soon
+              * Contribute to Health AI 
     design:
       columns: '2'
   - block: accomplishments
