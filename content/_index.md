@@ -65,7 +65,7 @@ sections:
         - title: Software Engineer Intern
           company: Amazon Web Service
           company_url: ''
-          company_logo: org-gc
+          company_logo: aws_logo
           location: Seattle
           date_start: '2024-05-28'
           date_end: ''
