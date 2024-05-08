@@ -143,7 +143,7 @@ sections:
       address:
         street: 709 Stewart Ave
         city: Ithaca
-        region: NA
+        region: NY
         postcode: '14850'
         country: United States
         country_code: US

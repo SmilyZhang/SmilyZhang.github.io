@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Project Code
-    link: https://github.com/SmilyZhang/ORIE6880Project
+    url: https://github.com/SmilyZhang/ORIE6880Project
 
 url_code: ''
 url_pdf: ''
